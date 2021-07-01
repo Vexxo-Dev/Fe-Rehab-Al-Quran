@@ -4,7 +4,7 @@
 
 # Setup
 
-<h1> On Pc </h1>
+<h2> On Pc </h2>
 
 <p> 1 - Write on Cmd `npm i ` </p>
 
