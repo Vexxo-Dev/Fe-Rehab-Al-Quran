@@ -22,6 +22,6 @@
 
 <p> 3 - Write Token Bot and prefix </p>
 
-<iframe frameborder="" width="100%" height="500px" scr="https://replit.com/@PowerGamer12/qrn-v2?lite=true"></iframe>
+<iframe frameborder="" width="100%" height="500px" scr="https://replit.com/@PowerGamer12/qrn-v2?embed=true"></iframe>
 
 
