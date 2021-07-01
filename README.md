@@ -16,12 +16,14 @@
 
 <h2> 💻 On Replit </h2>
 
+<a href="https://replit.com/@PowerGamer12/qrn-v2?v=1">Fork on replit</a>
+
 <p> 1 - Write on Cmd `npm i ` </p>
 
 <p> 2 - Write on Cmd `npm i aoi.js ` </p>
 
 <p> 3 - Write Token Bot and prefix </p>
 
-<iframe frameborder="" width="100%" height="500px" scr="https://replit.com/@PowerGamer12/qrn-v2?embed=true"></iframe>
+<p> 4 - Run </p>
 
 
