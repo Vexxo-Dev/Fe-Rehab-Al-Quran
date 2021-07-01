@@ -9,6 +9,9 @@ const bot = new aoi.Bot({
   prefix: ["$getVar[prefix]"]
 })
 
+bot.variables({
+prefix: "البريفيكس",
+})
 
 
 
