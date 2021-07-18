@@ -34,7 +34,3 @@ bot.status({
   time: 12
 })
 
-bot.variables({
-prefix: "*",
-})
-
