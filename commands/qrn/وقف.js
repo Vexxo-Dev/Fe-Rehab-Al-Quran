@@ -1,4 +1,5 @@
 module.exports = {
       name: "وقف",
-      code: `$stopSong`
+      code: `$stopSong
+      تم أيقاف القرأن`
 }
